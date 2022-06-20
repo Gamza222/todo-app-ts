@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/todo-app-ts.github.io/react-gh-pages/static/css/main.76a0c3ee.css",
-    "main.js": "/todo-app-ts.github.io/react-gh-pages/static/js/main.738ae34b.js",
-    "index.html": "/todo-app-ts.github.io/react-gh-pages/index.html",
-    "main.76a0c3ee.css.map": "/todo-app-ts.github.io/react-gh-pages/static/css/main.76a0c3ee.css.map",
-    "main.738ae34b.js.map": "/todo-app-ts.github.io/react-gh-pages/static/js/main.738ae34b.js.map"
+    "main.css": "/todo-app-ts/static/css/main.76a0c3ee.css",
+    "main.js": "/todo-app-ts/static/js/main.738ae34b.js",
+    "index.html": "/todo-app-ts/index.html",
+    "main.76a0c3ee.css.map": "/todo-app-ts/static/css/main.76a0c3ee.css.map",
+    "main.738ae34b.js.map": "/todo-app-ts/static/js/main.738ae34b.js.map"
   },
   "entrypoints": [
     "static/css/main.76a0c3ee.css",
